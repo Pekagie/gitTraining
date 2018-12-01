@@ -1,0 +1,2 @@
+# gitTraining
+pierwsze repozytorium gitowe
